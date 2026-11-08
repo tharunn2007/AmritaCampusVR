@@ -1,0 +1,6 @@
+Adapted locomotion concepts from godot_openvr_fps-master in inpire.zip:
+Scenes/VR_Controller.gd and Scenes/Movement_Vignette.gd. See inpire-LICENSE.txt.
+The sole copied visual asset is Assets/CGTuts_OceanHDRI_Freebie_001.hdr, now assets/environment/ocean_sky.hdr.
+Sky credited by the archive to CGTuts: https://cgi.tutsplus.com/articles/freebie-8-awesome-ocean-hdris--cg-5684
+No models, hands, weapons, textures for objects, audio, fonts, scenes or OpenVR binaries were copied.
+Vignette is newly implemented shader code, without the archive vignette texture.

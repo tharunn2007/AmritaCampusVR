@@ -1,0 +1,14 @@
+.godot/
+android/build/.gradle/
+android/build/build/
+builds/editor-config/
+*.apk
+*.idsig
+
+# Generated files and local configuration
+.godot/
+android/
+builds/
+*.log
+core
+core.*
